@@ -1,0 +1,9 @@
+[ -e ../CMakeLists.txt ]
+[ -e ../jojo.txt ]
+[ -e ../src/ ]
+[ -e ../yolo/ ]
+[ -f ../CMakeLists.txt ]
+[ -f ../comeonandslam.txt ]
+[ -d ../header/ ]
+[ -d ../fate/unlimited_blade_works/ ]
+exit

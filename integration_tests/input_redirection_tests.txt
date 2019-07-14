@@ -1,0 +1,2 @@
+cat > integration_text_file.txt
+exit

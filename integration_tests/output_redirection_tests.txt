@@ -1,0 +1,3 @@
+echo hello > output_redirect_integration.txt
+echo If you see this message that means it's been appended. >> append_test_integration.txt
+exit

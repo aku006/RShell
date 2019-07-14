@@ -1,0 +1,10 @@
+test -e ../CMakeLists.txt
+test -e ../bizarre.txt
+test -e ../src/
+test -e ../madeit/
+test -f ../CMakeLists.txt
+test -f ../fate/stay_sight.txt
+test -d ../src/
+test -d ../jojo/
+exit
+
